@@ -1,0 +1,35 @@
+Hogwarts
+
+Xi Gao
+CSCI 4229 Fall 2018
+
+Final Project
+
+Key bindings
+  l/L        Toggles lighting
+  f/F        Toggles fog
+  a/A        Decrease/increase ambient light
+  d/D        Decrease/increase diffuse light
+  s/S        Decrease/increase specular light
+  e/E        Decrease/increase emitted light
+  n/N        Decrease/increase shininess
+  m/M        Start/Stop light movement
+  p/P        Toggles orthogonal/perspective projection
+  +/-        Change field of view of perspective
+  x/X        Toggle axes
+  arrows     Change view angle
+  PgDn/PgUp  Zoom in and out
+  0          Reset view angle
+  1          Front view angle
+  2          Cathedral view angle
+  3          Campus view angle
+  ESC        Exit
+
+The thing that I am most proud of is the modeling of
+Hogwarts. I put a lot of time into the research
+and into making it be as close to realistic
+as possible, with the exception of a couple
+windows. I also really like the work I did with
+the skybox and the fact that I was able to make
+the skybox "glow" as the sun rose and "dim" as
+the sun set. 
